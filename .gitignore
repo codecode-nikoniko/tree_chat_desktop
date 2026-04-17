@@ -1,0 +1,34 @@
+# Git
+.git/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Misc
+*.bak
+# 依赖包
+node_modules/
+
+# 打包输出文件
+dist/
+
+# 环境变量（私密信息）
+.env
+.env.local
+
+
+#输出的exe
+output/
+dist-electron/
+release/
+
